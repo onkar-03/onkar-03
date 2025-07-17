@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 ```javascript
 const onkar = {
@@ -43,7 +43,7 @@ const onkar = {
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/onkarpatel03/" target="_blank">
